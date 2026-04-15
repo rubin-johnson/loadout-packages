@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <include name="remote.xml" />
+  <project name="token-miser" path=".packages/token-miser" remote="origin" revision="refs/tags/0.1.0" />
+  <project name="thorough" path=".packages/thorough" remote="origin" revision="refs/tags/0.1.0" />
+  <project name="tdd-strict" path=".packages/tdd-strict" remote="origin" revision="refs/tags/0.1.0" />
+</manifest>
