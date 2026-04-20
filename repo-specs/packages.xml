@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <include name="remote.xml" />
-  <project name="token-miser" path=".packages/token-miser" remote="origin" revision="refs/tags/0.1.0" />
-  <project name="thorough" path=".packages/thorough" remote="origin" revision="refs/tags/0.1.0" />
-  <project name="tdd-strict" path=".packages/tdd-strict" remote="origin" revision="refs/tags/0.1.0" />
+  <project name="adversarial-frugal" path=".packages/adversarial-frugal" remote="origin" revision="refs/tags/adversarial-frugal/0.1.0" />
+  <project name="async-first" path=".packages/async-first" remote="origin" revision="refs/tags/async-first/0.1.0" />
+  <project name="c-structured" path=".packages/c-structured" remote="origin" revision="refs/tags/c-structured/0.1.0" />
+  <project name="caveman" path=".packages/caveman" remote="origin" revision="refs/tags/caveman/0.1.0" />
+  <project name="context-guardian" path=".packages/context-guardian" remote="origin" revision="refs/tags/context-guardian/0.1.0" />
+  <project name="depth-control" path=".packages/depth-control" remote="origin" revision="refs/tags/depth-control/0.1.0" />
+  <project name="domain-python-api" path=".packages/domain-python-api" remote="origin" revision="refs/tags/domain-python-api/0.1.0" />
+  <project name="drona23" path=".packages/drona23" remote="origin" revision="refs/tags/drona23/0.1.0" />
+  <project name="fail-smart" path=".packages/fail-smart" remote="origin" revision="refs/tags/fail-smart/0.1.0" />
+  <project name="lean" path=".packages/lean" remote="origin" revision="refs/tags/lean/0.1.0" />
+  <project name="minimal-wip" path=".packages/minimal-wip" remote="origin" revision="refs/tags/minimal-wip/0.1.0" />
+  <project name="opportunistic-lazy" path=".packages/opportunistic-lazy" remote="origin" revision="refs/tags/opportunistic-lazy/0.1.0" />
+  <project name="phase-budget" path=".packages/phase-budget" remote="origin" revision="refs/tags/phase-budget/0.1.0" />
+  <project name="piersede" path=".packages/piersede" remote="origin" revision="refs/tags/piersede/0.1.0" />
+  <project name="planner" path=".packages/planner" remote="origin" revision="refs/tags/planner/0.1.0" />
+  <project name="quality-floor" path=".packages/quality-floor" remote="origin" revision="refs/tags/quality-floor/0.1.0" />
+  <project name="rtk" path=".packages/rtk" remote="origin" revision="refs/tags/rtk/0.1.0" />
+  <project name="rubin" path=".packages/rubin" remote="origin" revision="refs/tags/rubin/0.1.0" />
+  <project name="rubin-async" path=".packages/rubin-async" remote="origin" revision="refs/tags/rubin-async/0.1.0" />
+  <project name="rubin-lazy" path=".packages/rubin-lazy" remote="origin" revision="refs/tags/rubin-lazy/0.1.0" />
+  <project name="tdd-strict" path=".packages/tdd-strict" remote="origin" revision="refs/tags/tdd-strict/0.1.0" />
+  <project name="thinking-cap" path=".packages/thinking-cap" remote="origin" revision="refs/tags/thinking-cap/0.1.0" />
+  <project name="thorough" path=".packages/thorough" remote="origin" revision="refs/tags/thorough/0.1.0" />
+  <project name="token-miser" path=".packages/token-miser" remote="origin" revision="refs/tags/token-miser/0.1.0" />
 </manifest>
