@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <include name="remote.xml" />
+  <include name="repo-specs/remote.xml" />
   <project name="adversarial-frugal" path=".packages/adversarial-frugal" remote="origin" revision="refs/tags/adversarial-frugal/0.1.0" />
   <project name="async-first" path=".packages/async-first" remote="origin" revision="refs/tags/async-first/0.1.0" />
   <project name="c-structured" path=".packages/c-structured" remote="origin" revision="refs/tags/c-structured/0.1.0" />
